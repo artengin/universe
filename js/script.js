@@ -66,7 +66,7 @@ if(halfBtn != null){
         }
     }
 };
-btnInfo.addEventListener("click", activateInfo, false);
+//btnInfo.addEventListener("click", activateInfo, false);
 function activateInfo(e){
     infoBlock.classList.add("active-info");
 };
